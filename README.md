@@ -56,7 +56,7 @@ GROUP BY SUBSTR(R.DATE_SCANNED, 6, 2)
 
 ![image](https://user-images.githubusercontent.com/56999854/216748484-1f329443-f2da-4118-bd6f-e10ec1d440cf.png)
 
-### 2. This visualisation shows the spending of users in each state. Using a geographical visualisation shows us that states like New York, Wisconsin and Kentucky have higher average spending per user but when total spending is taken into consideration New York, California, Florida and South Carolina. This data shows the potential of various states where effort can be put into getting more users, or offering better incentives to increase average spending of the users.
+#### 2. This visualisation shows the spending of users in each state. Using a geographical visualisation shows us that states like New York, Wisconsin and Kentucky have higher average spending per user but when total spending is taken into consideration New York, California, Florida and South Carolina. This data shows the potential of various states where effort can be put into getting more users, or offering better incentives to increase average spending of the users.
 
 ![image](https://user-images.githubusercontent.com/56999854/216753837-0ab42f7a-58fe-45f4-a775-7d2dde695d16.png)
 ![image](https://user-images.githubusercontent.com/56999854/216753899-3b28cd3b-9826-45de-8727-71bcbda4234f.png)
